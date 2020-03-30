@@ -1,6 +1,7 @@
 # nextjs-starterkit
 A useful starterkit for next.js w/ TypeScript, GraphQL and Antdesign
 
+<img src="https://github.com/mzntaka0/nextjs-starterkit/blob/master/public/images/sampleapp.png">
 
 ### Dependencies
 See "dependencies" values in package.json
