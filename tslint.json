@@ -1,0 +1,14 @@
+{
+  "defaultSeverity": "error",
+  "extends": ["tslint-react", "tslint-config-prettier"],
+  "rulesDirectory": ["tslint-plugin-prettier"],
+  "rules": {
+    "prettier": true,
+    "object-literal-sort-keys": false,
+    // this rule is super slow :|
+    // "no-use-before-declare": true,
+    "no-namespace": false,
+    "interface-name": [true, "never-prefix"],
+    "radix": true,
+  }
+}
