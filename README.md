@@ -1,39 +1,18 @@
-# nextinit
-A useful boilerplate for next.js w/ TypeScript, GraphQL or Antdesign
+# nextjs-starterkit
+A useful starterkit for next.js w/ TypeScript, GraphQL and Antdesign
 
-Link of the design comp
-https://www.figma.com/file/z35YdAmdCTQmmNWLHFaAMd/nExt?node-id=38%3A5
 
 ### Dependencies
 See "dependencies" values in package.json
 
 
-### How to use this template
-* Click the button of `Use this template`
-
-or 
-
-* manually create a new project using this template
-```
-git clone https://github.com/mzntaka0/nextinit.git ${project_name}
-```
-
-* If you wanna use Antdesign with this template, please switch branch to `feature/with_antd` for now.
-```
-git clone https://github.com/mzntaka0/nextinit.git -b feature/with_antd ${project_name}
-```
-or 
-```
-git clone https://github.com/mzntaka0/nextinit.git ${project_name}
-cd ${project_name}
-git switch -c feature/with_antd origin/feature/with_antd
-```
-
 
 ### Initialization
 ```
+git clone https://github.com/mzntaka0/nextjs-starterkit.git ./${project_name}
 cd ${project_name}
 yarn install
+cp .env.example .env
 ```
 
 
