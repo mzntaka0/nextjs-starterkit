@@ -81,3 +81,7 @@ This file is gonna be called in index file of each page and re-called in _app.ts
 - [ ] Reflect awesome codes of this page: https://github.com/zeit/next.js/tree/canary/examples/with-typescript-graphql
 - [ ] Is the new proposed directory structure really good?
 - [ ] Separate Presentator and Container inside of each component(atoms)
+
+
+### Author
+Takao Mizuno(@mzntaka0)
