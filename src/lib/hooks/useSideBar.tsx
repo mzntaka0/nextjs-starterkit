@@ -1,5 +1,5 @@
 import {useState, useCallback} from 'react'
-import {Icon} from 'antd'
+import {Icon} from '@ant-design/compatible'
 
 
 const useSideBar = () => {

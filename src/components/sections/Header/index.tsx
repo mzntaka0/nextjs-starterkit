@@ -1,6 +1,7 @@
 import React, {useState, useCallback} from 'react'
 import Link from 'next/link'
-import {Layout, Button, Icon} from 'antd'
+import {Layout, Button} from 'antd'
+import {Icon} from '@ant-design/compatible'
 import {CSVLink} from 'react-csv'
 
 import Logo from '../../_atoms/Logo'

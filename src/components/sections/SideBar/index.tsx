@@ -1,6 +1,7 @@
 import {useState, useCallback} from 'react'
 import {useRouter} from 'next/router'
-import {Layout, Menu, Icon} from 'antd'
+import {Layout, Menu} from 'antd'
+import {Icon} from '@ant-design/compatible'
 import Headroom from 'react-headroom'
 
 import sidebarSettings from './sidebarSettings'
